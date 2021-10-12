@@ -1,0 +1,1 @@
+## Item 1 : Typescript와 Javascript의 관계 이해하기

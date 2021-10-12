@@ -1,0 +1,1 @@
+## Item 2 : Typescript 설정 이해하기
